@@ -1,6 +1,6 @@
 # 📍🌤️ Geolocation Weather App
 
-This app is an updated project of the weather-app with geolocation functionality support. To view the basic project you can browse the same [here](https://github.com/youknowankit/weather-app). 
+This app is an updated project of the weather-app with geolocation functionality support. You can view the basic version [here](https://github.com/youknowankit/weather-app). 
 
 ![Weather App Screenshot](./screenshot.png)  
 *A clean, responsive weather application using the OpenWeather API*
