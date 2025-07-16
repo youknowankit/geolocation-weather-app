@@ -70,8 +70,9 @@ async function getCityFromCoordinates(lat, lon) {
   const data = await response.json();
 
   if (data && data.length > 0) {
-    // console.log(data)
-    return data[0].name;
+    // return data[0].name; 
+    /*data[0].name sometimes cause error when location is not a city rather a local location like "karol bagh tehsil" or "civil lines" */
+    return data[0].state;
     
   } else {
     throw new Error("City not found from coordinates.");
