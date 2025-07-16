@@ -1,4 +1,4 @@
-const apiKey = "bfa111a9624edbd98655f2ae5cd01081"; // Replace with your OpenWeather API key
+const apiKey = "API_KEY"; // Replace with your OpenWeather API key
 
 // Main function to get weather by city name
 async function getWeatherByCity(city) {
