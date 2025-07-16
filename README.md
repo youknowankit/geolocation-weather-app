@@ -1,9 +1,9 @@
-# 🌤️ Weather App
+# 📍🌤️ Geolocation Weather App
 
-This app is an updated project of the weather-app with geolocation functionality support. To view the basic project you can browse the same [here](https://github.com/youknowankit/weather-app). 
+This app is an updated project of the weather-app with geolocation functionality support. You can view the basic version [here](https://github.com/youknowankit/weather-app). 
 
 ![Weather App Screenshot](./screenshot.png)  
-*A clean, responsive weather application using the OpenWeather API*
+*A clean, responsive geolcation based weather application using the OpenWeather API*
 
 ## ✨ Features
 - 🔍 Search weather by **city name**
@@ -24,5 +24,5 @@ This app is an updated project of the weather-app with geolocation functionality
 
 2. **Clone and Run the App**:
    ```bash
-   git clone https://github.com/youknowankit/weather-app.git
-   cd weather-app
+   git clone https://github.com/youknowankit/geolocation-weather-app.git
+   cd geolocation-weather-app
