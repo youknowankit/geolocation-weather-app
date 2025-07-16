@@ -1,4 +1,4 @@
-# 🌤️ Weather App
+# 📍🌤️ Geolocation Weather App
 
 This app is an updated project of the weather-app with geolocation functionality support. To view the basic project you can browse the same [here](https://github.com/youknowankit/weather-app). 
 
